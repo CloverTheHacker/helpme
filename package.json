@@ -4,6 +4,9 @@
   "description": "The making of a lifetime, or something like that.",
   "main": "index.html",
   "devDependencies": {},
+  "scripts": {
+  "run": "/workspace/helpme/script.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CloverTheHacker/helpme.git"
