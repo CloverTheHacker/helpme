@@ -1,4 +1,4 @@
-## Welcome to the weirdest thing ever!!
+# Welcome to the weirdest thing ever!!
 
 ---
 
