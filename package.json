@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "The making of a lifetime, or something like that.",
   "main": "index.html",
-  "devDependencies": {},
   "scripts": {
-  "run": "/workspace/helpme/script.js"
+    "run": "/workspace/helpme/script.js"
   },
   "repository": {
     "type": "git",
