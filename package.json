@@ -1,6 +1,6 @@
 {
   "name": "theproject",
-  "version": "3.0.0",
+  "version": "1.1.1",
   "description": "The making of a lifetime, or something like that.",
   "main": "index.html",
   "scripts": {
@@ -14,7 +14,8 @@
     "Clover",
     "what",
     "helpme",
-    "help"
+    "help",
+    "cloverthehacker"
   ],
   "author": "Clover Jordan",
   "license": "SEE LICENSE IN /LICENSE.txt",
