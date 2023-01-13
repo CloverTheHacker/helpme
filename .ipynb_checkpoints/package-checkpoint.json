@@ -1,9 +1,0 @@
-{
-  "name": "theproject",
-  "description": "I decided to create this for no reason whatsoever.",
-  "version": "1",
-  "main": "index.html",
-  "dependencies": {
-    "@vercel/analytics": "^0.1.6"
-  }
-}
