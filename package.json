@@ -1,6 +1,6 @@
 {
-  "name": "theimaginaryproject",
-  "version": "0.0.1",
+  "name": "@cloverthehacker/helpme",
+  "version": "0.0.2",
   "description": "The making of a lifetime, or something like that.",
   "main": "index.html",
   "scripts": {
@@ -25,5 +25,6 @@
   "homepage": "https://github.com/CloverTheHacker/helpme#readme",
   "dependencies": {
     "@vercel/analytics": "^0.1.6"
-  }
+  },
+  "devDependencies": {}
 }
