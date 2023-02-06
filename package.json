@@ -5,7 +5,7 @@
   "main": "index.html",
   "dependencies": {
     "@vercel/analytics": "^0.1.8",
-    "js-tokens": "^4.0.0",
+    "js-tokens": "^8.0.1",
     "loose-envify": "^1.4.0",
     "react": "^18.2.0"
   },
