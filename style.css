@@ -43,6 +43,7 @@ pre {
   color: white;
   border: none;
   text-decoration: none;
+  cursor: pointer;
 }
 .button:hover {
   background-color: white;
