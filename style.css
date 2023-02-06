@@ -43,12 +43,11 @@ pre {
   color: white;
   border: none;
   text-decoration: none;
-  cursor: pointer;
 }
 .button:hover {
   background-color: white;
   color: black;
-  cursor: auto;
+  cursor: pointer;
 }
 .download {
   padding: 15px 15px;
