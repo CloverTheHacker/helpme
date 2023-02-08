@@ -1,4 +1,3 @@
-function hola(){
 var fn = prompt("What is your name?");
 var pass = "Clover";
 var pass2 = "00253347";
@@ -24,5 +23,4 @@ function CONF() {
     alert("DECLINED");
     window.open("https://www.google.com/heart", "_self");
   }
-}
 }
