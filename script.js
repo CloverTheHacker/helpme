@@ -25,8 +25,8 @@ function CONF() {
     window.open("https://www.google.com/heart", "_self");
   }
 }
-{function STUPID() {
+function STUPID() {
   alert("Gotcha.");
   window.open("/media/meme.png", "_self");
-}}
+}
 }
